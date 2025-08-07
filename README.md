@@ -116,6 +116,21 @@ npm run dev
 - ✅ Automatic message simulation for demo purposes
 - ✅ Continuous messaging support
 
+---
+
+## 📞 Contact
+
+### Get in Touch
+
+**Derrick Karanja** - Software Developer
+
+- 📧 **Email**: [derricks01.kk@outlook.com](mailto:derricks01.kk@outlook.com)
+- 💼 **LinkedIn**: [linkedin.com/in/derks01](https://linkedin.com/in/derks01)
+- 🐱 **GitHub**: [github.com/derksKCodes](https://github.com/derksKCodes)
+- 🌐 **My Portfolio**: [My Portfolio](https://derrickportfolioweb.vercel.app/)
+
+---
+
 ## Troubleshooting
 
 ### Common Issues
@@ -133,4 +148,3 @@ npm run dev
 
 ---
 
-**Note**: This is a demonstration project built for the Full Stack Developer technical challenge. For production use, consider adding proper authentication, data persistence, error handling, and security measures.
