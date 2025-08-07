@@ -4,9 +4,9 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Real Time Dashboard',
+  description: 'A full-stack real-time chat application built with Next.js frontend and Node.js/Express backend using Socket.io for WebSocket communication.',
+  
 }
 
 export default function RootLayout({
