@@ -2,6 +2,8 @@
 
 A full-stack real-time chat application built with Next.js frontend and Node.js/Express backend using Socket.io for WebSocket communication.
 
+![Real-Time Chat Dashboard](./dashboard.png)
+
 ## Features
 
 - **Real-time messaging** with Socket.io WebSocket connection
@@ -44,7 +46,7 @@ A full-stack real-time chat application built with Next.js frontend and Node.js/
 
 #### Start both frontend and backend together
 \`\`\`bash
-npm start
+npm run dev
 \`\`\`
 
 This will start:
@@ -53,12 +55,7 @@ This will start:
 
 #### Run separately (optional)
 
-**Start the backend server:**
-\`\`\`bash
-npm run server
-\`\`\`
-
-**In a new terminal, start the frontend:**
+**In a new terminal, start the backend and frontend:**
 \`\`\`bash
 npm run dev
 \`\`\`
