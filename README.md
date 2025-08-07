@@ -118,19 +118,6 @@ npm run dev
 
 ---
 
-## 📞 Contact
-
-### Get in Touch
-
-**Derrick Karanja** - Software Developer
-
-- 📧 **Email**: [derricks01.kk@outlook.com](mailto:derricks01.kk@outlook.com)
-- 💼 **LinkedIn**: [linkedin.com/in/derks01](https://linkedin.com/in/derks01)
-- 🐱 **GitHub**: [github.com/derksKCodes](https://github.com/derksKCodes)
-- 🌐 **My Portfolio**: [My Portfolio](https://derrickportfolioweb.vercel.app/)
-
----
-
 ## Troubleshooting
 
 ### Common Issues
@@ -148,3 +135,15 @@ npm run dev
 
 ---
 
+## 📞 Contact
+
+### Get in Touch
+
+**Derrick Karanja** - Software Developer
+
+- 📧 **Email**: [derricks01.kk@outlook.com](mailto:derricks01.kk@outlook.com)
+- 💼 **LinkedIn**: [linkedin.com/in/derks01](https://linkedin.com/in/derks01)
+- 🐱 **GitHub**: [github.com/derksKCodes](https://github.com/derksKCodes)
+- 🌐 **My Portfolio**: [My Portfolio](https://derrickportfolioweb.vercel.app/)
+
+---
